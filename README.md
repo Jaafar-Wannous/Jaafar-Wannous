@@ -1,5 +1,5 @@
 ### Hey there! 👨‍💻  
-I'm **Jaafar Wannous**, a Full-Stack Developer with expertise in **Angular** and **Laravel**. ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+I'm **Jaafar Wannous**, a Full-Stack Developer with expertise in **Angular** and **Laravel**.
 ======================================================================================================================================
 
 Full-Stack Web Developer specializing in Angular for front-end development and Laravel for back-end solutions. My passion lies in creating dynamic, user-friendly, and efficient web applications that solve real-world problems.
