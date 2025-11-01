@@ -29,7 +29,7 @@
 #### 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,angular,react,figma&theme=dark" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,angular,react,figma&theme=dark" alt="Frontend Technologies" />
 </p>
 
 #### ⚙️ Backend & Database
