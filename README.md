@@ -41,7 +41,7 @@
 #### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,linux&theme=dark" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,linux,postman&theme=dark" alt="Tools and Platforms" />
 </p>
 
 </details>
